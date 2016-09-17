@@ -1,1 +1,1 @@
-# Exploiting convolution neural network features alongside with hand crafted features in SVM
+# Exploiting convolution neural network features along with hand crafted features in SVM.
