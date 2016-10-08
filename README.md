@@ -11,8 +11,8 @@ We use five lexicon:
 - NRC Emotion Lexicon
 - Bing Liu's Lexicon
 - MPQA Subjectivity Lexicon
+
 In each Lexicon we compute:
--
 
 [1]: http://arxiv.org/abs/1408.5882
 [2]: http://www.cs.cmu.edu/~ark/TweetNLP/
