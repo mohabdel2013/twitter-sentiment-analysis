@@ -3,7 +3,7 @@
 In this experiment, we use input of softmax layer in [convolution nueral network][1] as valuable features, and we combine these features with lexicon features and classify tweets' sentiment using SVM.
 
 # Preprocessing
-We use SemEval 2013 dataset in our experiment. After tokenizing tweets with [ark-tweet-nlp][2], we replace Numerics, URLs, User mentions and Punctuations with NUM, URL, USR and PUN respectively. You can find the preprocessed tweets.
+We use SemEval 2013 dataset in our experiment. After tokenizing tweets with [ark-tweet-nlp][2], we replace Numerics, URLs, User mentions and Punctuations with NUM, URL, USR and PUN respectively. You can download the preprocessed tweets freely.
 
 # Feature Extracting
 We use five lexicon:
@@ -16,10 +16,10 @@ We use five lexicon:
 In each Lexicon we compute below features for negative and positive tokens of each tweet:
 - Number of token with score not equal to zero
 - Maximum score of tokens
-- Totald score of tokens
+- Totale score of tokens
 - Score of last token
 
-You can find the preprocessed tweets.
+You can download the preprocessed tweets freely.
 
 # Dependencies
 The code requires:
