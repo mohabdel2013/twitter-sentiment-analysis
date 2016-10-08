@@ -6,11 +6,11 @@ We use SemEval 2013 dataset in our experiment. After tokenizing tweets with [ark
 
 # Feature Extracting
 We use five lexicon:
-*Hashtag Sentiment Lexicons
-*Sentiment140 Lexicons
-*NRC Emotion Lexicon
-*Bing Liu's Lexicon
-*MPQA Subjectivity Lexicon
+- Hashtag Sentiment Lexicons
+- Sentiment140 Lexicons
+- NRC Emotion Lexicon
+- Bing Liu's Lexicon
+- MPQA Subjectivity Lexicon
 In each Lexicon we compute:
 -
 
