@@ -13,6 +13,8 @@ We use five lexicon:
 - MPQA Subjectivity Lexicon
 
 In each Lexicon we compute:
+- Number of token with $ score(w) \ne 0 $
+- Count of tokens with score 
 
 [1]: http://arxiv.org/abs/1408.5882
 [2]: http://www.cs.cmu.edu/~ark/TweetNLP/
