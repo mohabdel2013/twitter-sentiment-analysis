@@ -16,7 +16,7 @@ We use five lexicon:
 In each Lexicon we compute below features for negative and positive tokens of each tweet:
 - Number of token with score not equal to zero
 - Maximum score of tokens
-- Totale score of tokens
+- Total score of tokens
 - Score of last token
 
 You can download the preprocessed tweets freely.
