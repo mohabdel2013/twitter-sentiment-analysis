@@ -1,3 +1,4 @@
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
 # Exploiting convolution neural network features along with hand crafted features in SVM.
 In this experiment, we use input of softmax layer in [convolution nueral network][1] as valuable features, and we combine these features with lexicon features and classify tweets' sentiment using SVM.
 
