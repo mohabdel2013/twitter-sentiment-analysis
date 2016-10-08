@@ -34,6 +34,12 @@ For classification simply run:
 > python classifier.py
 
 # Results
+| Method         | Accuracy      | Macro-Average Precision  | Macro-Average Recall  | Macro-Average F1  |
+| -------------- | ------------- | ------------------------ | --------------------- | ----------------- |
+| Network        |     88.08     |           85.65          |          84.00        |        84.76      |
+| Conv. Features |     87.25     |           83.63          |          85.85        |        84.60      |
+| Lexi. Features |     82.83     |           78.86          |          77.14        |        77.91      |
+| All Features   |   **89.19**   |         **86.15**        |        **87.34**      |      **86.71**    |
 
 
 
