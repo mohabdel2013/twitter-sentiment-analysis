@@ -144,6 +144,7 @@ model.fit(x_train, y_train, validation_data=(x_test, y_test),
 y_train = np.argmax(y_train, axis=1)
 y_test  = np.argmax(y_test, axis=1)
 
+#this comment is just for test, by Salar
 y_pred = np.argmax(model.predict(x_test), axis=1)
 print 'Network:'
 print '\t Accuracy : %.4f' % metrics.accuracy_score(y_test, y_pred)
